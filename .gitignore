@@ -1,0 +1,6 @@
+*.hdd
+*.o
+*.img
+*.efi
+/hold
+/vb
